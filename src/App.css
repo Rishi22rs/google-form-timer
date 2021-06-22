@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.Not-Overlay {
+  text-align: center;
+  position: absolute;
+  margin: auto;
+  width: 100%;
+}
+
+.Overlay {
+  position: fixed;
+  opacity: 0.8;
+  background-color: red;
+  height: 100vh;
+  width: 100%;
+}
