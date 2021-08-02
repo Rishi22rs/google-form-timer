@@ -1,1 +1,2 @@
-Integrated timer in the google form.
+Integrated a timer in the google form.
+Testing link: https://noway.netlify.app
